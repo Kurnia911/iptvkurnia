@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4715812,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=30,CLOSED-CAPTIONS=NONE
-https://cdngb196.useetv.com/joss/14/rtv/chunklist_w121413155_b684100_sleng.m3u8?enc=v7ca9gwXpyWWXU_30LxSYg&id=&exp=1604839904
+https://etslive-2-vidio-com.akamaized.net/exp=1604850497~acl=/hls-p/ingest_geo_1561_*/*~hmac=f4b251e83948a2641101ba8d04f0eabcb6a0e45764e25c075ef6431cbc9aa41b/hls-p/ingest_geo_1561_720p/index.m3u8
