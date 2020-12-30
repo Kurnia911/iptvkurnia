@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1344100,RESOLUTION=1280x720
-https://streaming.useetv.com/joss/15/trans7/chunklist_w405415155_b1344100_sleng_kurnia911.m3u8?enc=XIAYN01FspQSTLVE_J7EvQ&id=&exp=1609265666
+https://etslive-2-vidio-com.akamaized.net/exp=1609325004~acl=/hls-p/ingest_734_*/*~hmac=80b4f8e4a56c89a375e8e93f2e56c9f149d9b33c4308fd058b106f191755de10/hls-p/ingest_734_720p/index.m3u8
