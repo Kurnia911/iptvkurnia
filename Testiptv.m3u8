@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://0.0.0.0:8080/iptvkurnia.png",Playlist By @IPTV KURNIA
+http://0.0.0.0:8080/iptvkurnia.ts
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/606iT2u8BCqGEG0bDhR1crUlK7U=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-5c45d3.jpg" group-title="Test Iptv",Hip Hip Horee
 http://0.0.0.0:8080/H12dfS1RT243rtuyhiphiphoree238rtaewStreaM.m3u8
