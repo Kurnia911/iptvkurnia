@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="http://0.0.0.0:8080/iptvkurnia.png",Playlist By @IPTV KURNIA
 http://0.0.0.0:8080/iptvkurnia.ts
 
+#EXTINF:-1 tvg-logo="http://0.0.0.0:8080/iptvkurnia.png",Jangan Perjualbelikan
+http://0.0.0.0:8080/iptvkurnia1.ts
+
 //INDONESIA
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xl9i0PGWgwhZ_zH6DRy2XHc2U6M=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/635a1c.jpg" group-title="INDONESIA", RCTI
 http://0.0.0.0:8080/streamingtvnasional-rcti.m3u8
