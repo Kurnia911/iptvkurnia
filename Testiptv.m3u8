@@ -12,7 +12,7 @@ http://0.0.0.0:8080/streamingtvnasional-rcti.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LynixK-Zs8iQ8-PkZOar1pz6zas=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/f05e3e.jpg" group-title="INDONESIA", MNC
 http://0.0.0.0:8080/Streamingtvnasional-mnctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/B4tuR5jEu0Ob8EHsLBQNQDlfQ80=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/41be2c.jpg" group-title="INDONESIA", GTV
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/B4tuR5jEu0Ob8EHsLBQNQDlfQ80=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/41be2c.jpg"tvg-id="Kurnia595arDfw4r2c41Jomblo" tvg-name"GTV"group-title="INDONESIA", GTV
 http://0.0.0.0:8080/Streamingtvnasional-gtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lNvhYYcPGK0kEuSkPpwxAUt_RgE=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/87f1aa.png" group-title="INDONESIA", SCTV HD
