@@ -1,133 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="IPTV KURNIA" generator-info-url="http://riyancoday.xyz/">
-<channel id="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA"></channel>
-   <programme start="20210122003000 +0700" stop="20210122010000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Lensa Indonesia Malam</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+<tv generator-info-name="IPTV KURNIA" generator-info-url="http://0.0.0.0:8080">
+<channel id="Kurnia595arDfw4r2c41Jomblo"></channel>
+   <programme start="20210122003000 +0700" stop="20210122010000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">Gerebek</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122010000 +0700" stop="20210122013000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Cermin Hati</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122010000 +0700" stop="20210122013000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">MNC Shop</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122013000 +0700" stop="20210122020000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Mega Aksi</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122013000 +0700" stop="20210122020000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">Buletin iNews Malam</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122020000 +0700" stop="20210122030000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Mega Aksi</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122020000 +0700" stop="20210122030000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">Awas Ada Sule Lagi</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122030000 +0700" stop="20210122033000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">CSI : Catatan Seputar Investigasi</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122030000 +0700" stop="20210122040000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">Jeany &amp; Soun Miun</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122033000 +0700" stop="20210122040000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Cahaya Ilahi</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122040000 +0700" stop="20210122043000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">Buletin iNews Pagi</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122040000 +0700" stop="20210122043000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Unik Enak</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122043000 +0700" stop="20210122053000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">Ragam Cerita</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122043000 +0700" stop="20210122053000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Lensa Indonesia Pagi</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122053000 +0700" stop="20210122063000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">Top 20 Funniest</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122053000 +0700" stop="20210122070000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Omar &amp; Hana</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122063000 +0700" stop="20210122070000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">Bernard Bear</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122070000 +0700" stop="20210122073000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Riko The Series</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122070000 +0700" stop="20210122080000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">The SpongeBob Squarepants Movie</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122073000 +0700" stop="20210122083000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Boboiboy</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122080000 +0700" stop="20210122093000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">The SpongeBob Squarepants Movie</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122083000 +0700" stop="20210122090000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Unik Enak</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122093000 +0700" stop="20210122100000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">Obsesi</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122090000 +0700" stop="20210122103000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">PJ Masks</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122100000 +0700" stop="20210122110000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">Buletin iNews Siang</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122103000 +0700" stop="20210122110000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">CSI : Catatan Seputar Investigasi</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122110000 +0700" stop="20210122123000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">Movie</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122110000 +0700" stop="20210122113000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Lensa Indonesia Siang</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122123000 +0700" stop="20210122150000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">Movie</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122113000 +0700" stop="20210122120000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Super Wings</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122150000 +0700" stop="20210122170000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">Sasuke Ninja Warrior</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122120000 +0700" stop="20210122130000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Ultraman R/B</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+   <programme start="20210122170000 +0700" stop="20210122180000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">Kisah Viral</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
     </programme>
-   <programme start="20210122130000 +0700" stop="20210122133000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Monkart</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
-    </programme>
-   <programme start="20210122133000 +0700" stop="20210122140000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Fun Time</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
-    </programme>
-   <programme start="20210122140000 +0700" stop="20210122150000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Beyblade</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
-    </programme>
-   <programme start="20210122150000 +0700" stop="20210122160000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Petok Si Ayam Kampung</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
-    </programme>
-   <programme start="20210122160000 +0700" stop="20210122170000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Keluarga Somat</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
-    </programme>
-   <programme start="20210122170000 +0700" stop="20210122183000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Omar &amp; Hana</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
-    </programme>
-   <programme start="20210122183000 +0700" stop="20210122190000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Riko The Series</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
-    </programme>
-   <programme start="20210122190000 +0700" stop="20210122203000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Sinema Keluarga</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
-    </programme>
-   <programme start="20210122203000 +0700" stop="20210122220000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Ultraman Cosmos</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
-    </programme>
-   <programme start="20210122220000 +0700" stop="20210122230000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Super 100</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
-    </programme>
-   <programme start="20210122230000 +0700" stop="20210122233000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Sportivi</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
-    </programme>
-   <programme start="20210122233000 +0700" stop="20210123003000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
-    <title lang="en">Angling Dharma</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
-    </programme>
-<channel id="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA"></channel>
-   <programme start="20210122013000 +0700" stop="20210122020000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
-    <title lang="en">Liputan 6 Malam</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
-    </programme>
-   <programme start="20210122020000 +0700" stop="20210122033000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
-    <title lang="en">Juliat Sang Penakluk Arjuna</title>
-    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
-    </programme>
-   <programme start="20210122033000 +0700" stop="20210122040000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
-    <title lang="en">Emak Ijah</title>
+   <programme start="20210122180000 +0700" stop="20210122190000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
+    <title lang="en">Family 100 Indonesia</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+     title>
     <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
     </programme>
    <programme start="20210122040000 +0700" stop="20210122043000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
