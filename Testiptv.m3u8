@@ -1,71 +1,116 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://0.0.0.0:8080/iptvkurnia.png",Playlist By @IPTV KURNIA
-http://0.0.0.0:8080/iptvkurnia.ts
-
-#EXTINF:-1 tvg-logo="http://0.0.0.0:8080/iptvkurnia.png",Jangan Perjualbelikan
-http://0.0.0.0:8080/iptvkurnia1.ts
-
-//INDONESIA
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xl9i0PGWgwhZ_zH6DRy2XHc2U6M=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/635a1c.jpg" group-title="INDONESIA", RCTI
-http://0.0.0.0:8080/streamingtvnasional-rcti.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LynixK-Zs8iQ8-PkZOar1pz6zas=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/f05e3e.jpg" group-title="INDONESIA", MNC
-http://0.0.0.0:8080/Streamingtvnasional-mnctv.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/B4tuR5jEu0Ob8EHsLBQNQDlfQ80=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/41be2c.jpg"tvg-id="Kurnia595arDfw4r2c41Jomblo" tvg-name"GTV"group-title="INDONESIA", GTV
-http://0.0.0.0:8080/Streamingtvnasional-gtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lNvhYYcPGK0kEuSkPpwxAUt_RgE=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/87f1aa.png" group-title="INDONESIA", SCTV HD
-http://0.0.0.0:8080/Streamingtvnasional-sctvhd.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/aWzggwPgRp8Jyejn4yvhX4o6UKw=/230x230/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" group-title="INDONESIA", INDOSIAR HD
-http://0.0.0.0:8080/Streamingtvnasional-indosiarhd.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="INDONESIA", NET.HD
-http://0.0.0.0:8080/Streamingtvnasional-nettv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="INDONESIA", RTV 
-http://0.0.0.0:8080/Streamingtvnasional-rtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="INDONESIA", TRANS7 
-http://0.0.0.0:8080/Streamingtvnasional-trans7.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="INDONESIA", TRANSTV 
-http://0.0.0.0:8080/Streamingtvnasional-transtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", INEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TVONE
-http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", METRO TV
-http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", KOMPAS TV
-http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", DAAI TV HD
-http://103.130.186.138:8800/oxygenplay/daaitv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TVRI
-http://103.130.186.138:8800/oxygenplay/tvri/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TVRI NASIONAL
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TVRI DKI JAKARTA
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", TVRI BUDAYA
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", BERITASATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", JAKTV
-http://103.130.186.138:8800/oxygenplay/jaktv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="INDONESIA", Jawa Pos TV
-http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
-
+   <programme start="20210122003000 +0700" stop="20210122010000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Lensa Indonesia Malam</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122010000 +0700" stop="20210122013000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Cermin Hati</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122013000 +0700" stop="20210122020000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Mega Aksi</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122020000 +0700" stop="20210122030000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Mega Aksi</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122030000 +0700" stop="20210122033000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">CSI : Catatan Seputar Investigasi</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122033000 +0700" stop="20210122040000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Cahaya Ilahi</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122040000 +0700" stop="20210122043000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Unik Enak</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122043000 +0700" stop="20210122053000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Lensa Indonesia Pagi</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122053000 +0700" stop="20210122070000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Omar &amp; Hana</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122070000 +0700" stop="20210122073000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Riko The Series</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122073000 +0700" stop="20210122083000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Boboiboy</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122083000 +0700" stop="20210122090000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Unik Enak</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122090000 +0700" stop="20210122103000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">PJ Masks</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122103000 +0700" stop="20210122110000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">CSI : Catatan Seputar Investigasi</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122110000 +0700" stop="20210122113000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Lensa Indonesia Siang</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122113000 +0700" stop="20210122120000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Super Wings</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122120000 +0700" stop="20210122130000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Ultraman R/B</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122130000 +0700" stop="20210122133000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Monkart</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122133000 +0700" stop="20210122140000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Fun Time</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122140000 +0700" stop="20210122150000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Beyblade</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122150000 +0700" stop="20210122160000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Petok Si Ayam Kampung</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122160000 +0700" stop="20210122170000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Keluarga Somat</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122170000 +0700" stop="20210122183000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Omar &amp; Hana</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122183000 +0700" stop="20210122190000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Riko The Series</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122190000 +0700" stop="20210122203000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Sinema Keluarga</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122203000 +0700" stop="20210122220000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Ultraman Cosmos</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122220000 +0700" stop="20210122230000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Super 100</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122230000 +0700" stop="20210122233000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Sportivi</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
+   <programme start="20210122233000 +0700" stop="20210123003000 +0700" channel="Kurnia596arDfw5r3c42Jomblo">
+    <title lang="en">Angling Dharma</title>
+    <desc lang="en">By @IPTVKURNIA</desc>
+    </programme>
