@@ -1,25 +1,519 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="IPTV KURNIA" generator-info-url="http://0.0.0.0:8080/">
-<channel id="Kurnia595arDfw4r2c41Jomblo"></channel>
+<tv generator-info-name="IPTV KURNIA" generator-info-url="http://riyancoday.xyz/">
+<channel id="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA"></channel>
+   <programme start="20210122003000 +0700" stop="20210122010000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Lensa Indonesia Malam</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
     </programme>
-   <programme start="20210121093000 +0700" stop="20210121100000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
-    <title lang="en">Obsesi</title>
-    <desc lang="en">By @IPTVKURNIA</desc>
+   <programme start="20210122010000 +0700" stop="20210122013000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Cermin Hati</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
     </programme>
-   <programme start="20210121100000 +0700" stop="20210121110000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
-    <title lang="en">Buletin INews Siang</title>
-    <desc lang="en">By @IPTVKURNIA</desc>
+   <programme start="20210122013000 +0700" stop="20210122020000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Mega Aksi</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
     </programme>
-   <programme start="20210121110000 +0700" stop="20210121123000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
-    <title lang="en">Movie</title>
-    <desc lang="en">By @IPTVKURNIA</desc>
+   <programme start="20210122020000 +0700" stop="20210122030000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Mega Aksi</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
     </programme>
-   <programme start="20210121123000 +0700" stop="20210121150000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
-    <title lang="en">Movie</title>
-    <desc lang="en">By @IPTVKURNIA</desc>
+   <programme start="20210122030000 +0700" stop="20210122033000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">CSI : Catatan Seputar Investigasi</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
     </programme>
-   <programme start="20210121150000 +0700" stop="20210121170000 +0700" channel="Kurnia595arDfw4r2c41Jomblo">
-    <title lang="en">Sasuke Ninja Warrior</title>
-    <desc lang="en">By @IPTVKURNIA</desc>
+   <programme start="20210122033000 +0700" stop="20210122040000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Cahaya Ilahi</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122040000 +0700" stop="20210122043000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Unik Enak</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122043000 +0700" stop="20210122053000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Lensa Indonesia Pagi</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122053000 +0700" stop="20210122070000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Omar &amp; Hana</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122070000 +0700" stop="20210122073000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Riko The Series</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122073000 +0700" stop="20210122083000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Boboiboy</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122083000 +0700" stop="20210122090000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Unik Enak</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122090000 +0700" stop="20210122103000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">PJ Masks</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122103000 +0700" stop="20210122110000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">CSI : Catatan Seputar Investigasi</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122110000 +0700" stop="20210122113000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Lensa Indonesia Siang</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122113000 +0700" stop="20210122120000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Super Wings</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122120000 +0700" stop="20210122130000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Ultraman R/B</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122130000 +0700" stop="20210122133000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Monkart</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122133000 +0700" stop="20210122140000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Fun Time</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122140000 +0700" stop="20210122150000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Beyblade</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122150000 +0700" stop="20210122160000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Petok Si Ayam Kampung</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122160000 +0700" stop="20210122170000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Keluarga Somat</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122170000 +0700" stop="20210122183000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Omar &amp; Hana</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122183000 +0700" stop="20210122190000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Riko The Series</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122190000 +0700" stop="20210122203000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Sinema Keluarga</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122203000 +0700" stop="20210122220000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Ultraman Cosmos</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122220000 +0700" stop="20210122230000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Super 100</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122230000 +0700" stop="20210122233000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Sportivi</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122233000 +0700" stop="20210123003000 +0700" channel="RIYAN.d8e39c16d138df3fef2414cc96c3f77b.SHINTA">
+    <title lang="en">Angling Dharma</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+<channel id="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA"></channel>
+   <programme start="20210122013000 +0700" stop="20210122020000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">Liputan 6 Malam</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122020000 +0700" stop="20210122033000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">Juliat Sang Penakluk Arjuna</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122033000 +0700" stop="20210122040000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">Emak Ijah</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122040000 +0700" stop="20210122043000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">Kata Ustadz Solmed</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122043000 +0700" stop="20210122060000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">Liputan 6 Pagi</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122060000 +0700" stop="20210122063000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">Mereka Yang Pergi</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122063000 +0700" stop="20210122080000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">Hot Shot</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122080000 +0700" stop="20210122100000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">Tendangan Cinta Naila</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122100000 +0700" stop="20210122120000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">Nanti Kita Cerita Tentang Pukis Nangka</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122120000 +0700" stop="20210122123000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">Liputan 6 Siang</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122123000 +0700" stop="20210122133000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">Dua Dunia Salma</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122133000 +0700" stop="20210122145000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">FTV - Kekasih Semu | Catatan Harianku</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122145000 +0700" stop="20210122163000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">FTV - Bayang-Bayang Rahasia | Catatan Harianku</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122163000 +0700" stop="20210122181500 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">Dari Jendela SMP</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122181500 +0700" stop="20210122200000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">Buku Harian Seorang Istri</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122200000 +0700" stop="20210122214500 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">Love Story The Series</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122214500 +0700" stop="20210122233000 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">Samudra Cinta</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122233000 +0700" stop="20210123011500 +0700" channel="RIYAN.19113af1a71b57f876f26d8eed5a65b5.SHINTA">
+    <title lang="en">One Championship</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+<channel id="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA"></channel>
+   <programme start="20210122013000 +0700" stop="20210122020000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Patroli Malam</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122020000 +0700" stop="20210122023000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Fokus Malam</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122023000 +0700" stop="20210122043000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Wanita Ambisius Pengincar Harta, Tak Bisa Dimakamkan Karena Dikepung Ular Berbisa</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122043000 +0700" stop="20210122060000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Fokus Pagi</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122060000 +0700" stop="20210122063000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Tasbih</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122063000 +0700" stop="20210122073000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Ketulusan Hati Sang Kakak Demi Airmata Kebahagiaan Adik-adiknya</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122073000 +0700" stop="20210122090000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Ibu Penjual Sosis Bakar Yang Berjuang Mengangkat Derajak Keluarganya</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122090000 +0700" stop="20210122103000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Hot Issue Pagi</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122103000 +0700" stop="20210122110000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Patroli</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122110000 +0700" stop="20210122113000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Fokus</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122113000 +0700" stop="20210122133000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Luka Istri Membuat Rezeki Suami Terhambat</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122133000 +0700" stop="20210122150000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Keteguhan Hati Gadis Penjual Kantong Kresek</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122150000 +0700" stop="20210122163000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Suami Takabur, Istri Kabur</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122163000 +0700" stop="20210122183000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Sebaik-Baiknya Seorang Madu Tetap Meracuniku</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122183000 +0700" stop="20210122200000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Kulepas Dengan Ikhlas</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122200000 +0700" stop="20210122233000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Intimate Concert Via Vallen</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122233000 +0700" stop="20210123013000 +0700" channel="RIYAN.6c4a8d52025664d9d5cacbf49ecc3364.SHINTA">
+    <title lang="en">Tukul Arwana One Man Show</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+<channel id="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA"></channel>
+   <programme start="20210122000000 +0700" stop="20210122003000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">ONE C'ship 2020</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122003000 +0700" stop="20210122005900 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">On Action</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122005900 +0700" stop="20210122010100 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Lagu Nasional</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122010100 +0700" stop="20210122020000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">O Shop</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122020000 +0700" stop="20210122030000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">O Shop</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122030000 +0700" stop="20210122040000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">O Shop</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122040000 +0700" stop="20210122040200 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Lagu Nasional</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122040200 +0700" stop="20210122041500 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Dki 15</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122041500 +0700" stop="20210122043000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Dki 15</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122043000 +0700" stop="20210122050000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">O Entertainment Malam</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122050000 +0700" stop="20210122053000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Lutuna</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122053000 +0700" stop="20210122060000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">O Entertainment Pagi</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122060000 +0700" stop="20210122061500 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Paling Pol</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122061500 +0700" stop="20210122063000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Lutuna</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122063000 +0700" stop="20210122072500 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Happy Hour</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122072500 +0700" stop="20210122100000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">NBA Live</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122100000 +0700" stop="20210122110000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Azizah</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122110000 +0700" stop="20210122120000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">O Shop</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122120000 +0700" stop="20210122130000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">O Shop</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122130000 +0700" stop="20210122140000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">O Shop</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122140000 +0700" stop="20210122150000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">O Shop</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122150000 +0700" stop="20210122160000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">O Shop</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122160000 +0700" stop="20210122163000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Merial</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122163000 +0700" stop="20210122170000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Lutuna</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122170000 +0700" stop="20210122180000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">O Shop</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122180000 +0700" stop="20210122190000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">O Shop</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122190000 +0700" stop="20210122200000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">O Shop</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122200000 +0700" stop="20210122220000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Champions League</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122220000 +0700" stop="20210122223000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Exploride</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122223000 +0700" stop="20210122230000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Loveless</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122230000 +0700" stop="20210122233000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Klinik Bentrap</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122233000 +0700" stop="20210123000000 +0700" channel="RIYAN.bdd2c6b8ca4a027195c40dcb7a1ec168.SHINTA">
+    <title lang="en">Europa League</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+<channel id="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA"></channel>
+   <programme start="20210122000000 +0700" stop="20210122003000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">DW News</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122003000 +0700" stop="20210122004500 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">DW News</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122004500 +0700" stop="20210122010000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">Arts And Culture</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122010000 +0700" stop="20210122011500 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">DW News</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122011500 +0700" stop="20210122013000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">Business</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122013000 +0700" stop="20210122014500 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">DW News</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122014500 +0700" stop="20210122020000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">Arts And Culture</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122020000 +0700" stop="20210122023000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">DW News</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122023000 +0700" stop="20210122030000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">To the Point</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122030000 +0700" stop="20210122033000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">DW News</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122033000 +0700" stop="20210122040000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">The Day</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122040000 +0700" stop="20210122041500 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">DW News</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122041500 +0700" stop="20210122043000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">Business</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122043000 +0700" stop="20210122044500 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">DW News</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122044500 +0700" stop="20210122050000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">Arts And Culture</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122050000 +0700" stop="20210122050200 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">DW News</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122050200 +0700" stop="20210122053000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">The Day</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122053000 +0700" stop="20210122060000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">Conflict Zone</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122060000 +0700" stop="20210122061500 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">DW News</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122061500 +0700" stop="20210122063000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">DW News</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122063000 +0700" stop="20210122064500 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">Business</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122064500 +0700" stop="20210122070000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">Arts And Culture</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122070000 +0700" stop="20210122070200 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">DW News</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122070200 +0700" stop="20210122073000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">The Day</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122073000 +0700" stop="20210122080000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">Kick Off!</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122080000 +0700" stop="20210122081500 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">DW News</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122081500 +0700" stop="20210122090000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122090000 +0700" stop="20210122090200 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">DW News</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122090200 +0700" stop="20210122093000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">The Day</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
+    </programme>
+   <programme start="20210122093000 +0700" stop="20210122100000 +0700" channel="RIYAN.daefbbd59efb6068a66e7940e99b7298.SHINTA">
+    <title lang="en">Kick Off!</title>
+    <desc lang="en">By @RiyanCoday (Telegram : t.me/c0day)</desc>
     </programme>
 
+
+
+
+
+Kurnia595arDfw4r2c41Jomblo
+Kurnia595arDfw4r2c41Jomblo
+Kurnia594arDfw4r1c40Jomblo
